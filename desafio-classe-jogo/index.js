@@ -7,7 +7,7 @@ class Heroi {
 
     // vai imprimir uma frase diferente dependendo do tipo de herói.
     atacar() {
-        // objeto qu associa cada tipo a UM ataque correspondente
+        // objeto que associa cada tipo a UM ataque correspondente
         const ataques = {
             mago: "magia",
             guerreiro: "espada",
